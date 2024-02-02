@@ -5,5 +5,5 @@ DagsHub is where people create data science projects. Use DagsHub to discover, r
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Divya196/mlflowexperiments.mlflow \
 MLFLOW_TRACKING_USERNAME=Divya196 \
-MLFLOW_TRACKING_PASSWORD=d7e6a9ccf47fa049d78fc2b0e0d52dd15c7407f5 \
+MLFLOW_TRACKING_PASSWORD= \
 python script.py
